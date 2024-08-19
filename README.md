@@ -1,19 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ilya Gusev</h1>
-<h3 align="center">Software engineer</h3>
+# Привет, меня зовут Гусев Илья
 
-- 🔭 I’m currently working on [DOGMA](http://dogma.ru/)
+## Кто я?
+Окончил университет по профильно специальности в ИТ.
 
-- 🌱 I’m currently learning **architecture, system design, best practices for developing quality software**
+Активно изучаю различные подходы решения бизнес задач с помощью ИТ инструментов.
 
-- 👨‍💻 All of my projects are available at [https://github.com/alertlog?tab=repositories](https://github.com/alertlog?tab=repositories)
+Занимаюсь споротом и саморазвитием, стараюсь учавствовать в жизни сообщества разработки.
 
-- 📫 How to reach me **https://t.me/alert_web**
+## Опыт работы
+Начало коммерческой разработки началось с 2019 года.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+На текуший момент работаю в топ 5 застройщиков по стране, на позиции senior backend developer, по совместительности techlead. Основной язык программирования - **golang**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+За это время успел опробовать себя в различных ролях:
+- FullStack developer
+- Backend developer
+- TeamLead команды разработки (руководитель отдела разработки)
+- TechLead/Backend developer (ведущий разработчик backend, отвечающий за техничекую часть проектов)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alertlog&show_icons=true&locale=ru&layout=compact" alt="alertlog" /></p>
+Далее чуть подробнее опишу свой опыт на некоторых проектах.
+
+### Сервис онлайн покупки.
+**Задача.** Автоматизация процесса покупки и оформления недвижимости.
+
+**Решение.** Разработан набор сервис, позволяющий покупателю выбрать объект недвижимости, произвести бронирование данного объекта, полностью оформить покупку удаленно (в том числе ипотеку), через персональный личный кабинет.
+
+**Что делал:**
+- общение с заказчиком
+- формирование бизнес требований, с дальнейшим согласованием с заказчиком
+- выявление технических требований
+- расчет и защита трудозатрат на разработку проекта
+- поиск инструментов и технологий для решения задач
+- формирование команды разработки: frontend, backend, ui/ux design, qa
+- проектирование архитектуры проекта, в частности backend и инфраструктуры
+- анализ и декомпозиция задач
+- контроль выполнения задач
+- ведение отчетности перед руководством и заказчиками
+- backend разработка
+- интегриация с сервисом онлайн ипотеки от ведущего банка страны
+- интегриация с сервисом оплаты
+- интегриация с внутренней CRM компании
+- настройка CI/CD, мониторинга и трассировки
+- презентация и защита результата разработки
+
+### Сервис агентств недвижимости.
+**Задача.** Автоматизация взаимодействия агентств недвижимости и застройщика.
+АН, СК, КА, платформа, СКУД
